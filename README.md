@@ -1,7 +1,7 @@
 # OrdepOlavrac
 Portifólio 2.0 ( HTML5 + CSS3) PEDRO CARVALHO
 
-https://pedrinhocarvalho.github.io/OrdepOlavrac/
+https://pedrocarvh.github.io/OrdepOlavrac/
 
 (Projeto ainda em desenvolvimento)
 
