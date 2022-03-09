@@ -5,4 +5,4 @@ https://pedrocarvalhosnk.github.io/OrdepOlavrac/
 
 (Projeto ainda em desenvolvimento)
 
-![image](https://user-images.githubusercontent.com/80465335/157265148-884aa4e2-e148-47f5-8921-57c989ac9319.png)
+![image](https://user-images.githubusercontent.com/80465335/157358729-b378a69d-93e6-4d31-a7d2-055dbdabe60f.png)
